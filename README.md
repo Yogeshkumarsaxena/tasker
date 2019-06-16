@@ -1,0 +1,1 @@
+This app is developed using the HTML/CSS and Javascript. It is a simple Todo application in which you can add your todos with a single click. You can also tick mark the already done todos and can also remove them with just a simple click.
