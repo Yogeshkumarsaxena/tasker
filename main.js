@@ -39,7 +39,7 @@ function addItem(){
         var label = document.createElement('label');
         label.setAttribute('for', 'item')
 
-        //add these onto page
+        // add these onto page
         ul.appendChild(label)
         li.appendChild(checkbox)
         label.appendChild(textnode)
